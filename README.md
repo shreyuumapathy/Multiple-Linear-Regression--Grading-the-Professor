@@ -1,2 +1,2 @@
 # Multiple-Linear-Regression---Grading-the-Professor
-Analyzing data from student evaluations to learn what goes into a professor's positive evaluation
+I performed a multiple linear regression analysis on student evaluations to identify the key determinants of a professor’s overall rating.
